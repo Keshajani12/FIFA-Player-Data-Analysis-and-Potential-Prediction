@@ -22,7 +22,7 @@ This script provides an illustrative example of FIFA player data analysis and pr
 
 
 # Installation
-1. Clone this repository: git clone https://github.com/
+1. Clone this repository: git clone https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction.git
 
 2. Navigate to the project directory: cd fifa
 
@@ -68,3 +68,12 @@ Data is also filtered based on nationality for Argentina, France, Netherlands, a
 ● A line plot is generated using Seaborn to visualize the actual and predicted 'potential' values.
 
 # Screenshots
+![1](https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction/assets/143489586/e0df8b83-d710-4570-9d6f-b57959cd3c5e)
+
+![2](https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction/assets/143489586/f2234b0e-4e51-4b0e-9d5d-808185d7a54f)
+
+![3](https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction/assets/143489586/03086e56-15e9-4b5e-91f5-290d0e170539)
+
+![4](https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction/assets/143489586/2ec64b20-8de1-4a59-8b37-b856cfdcc077)
+
+![5](https://github.com/Keshajani12/FIFA-Player-Data-Analysis-and-Potential-Prediction/assets/143489586/6498258b-53a9-4e11-b655-d04f1c2e98fb)
